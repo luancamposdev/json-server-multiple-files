@@ -1,0 +1,134 @@
+[
+    {
+        "id": 19,
+        "title": "Sabor da borda",
+        "min": 1,
+        "max": 1,
+        "type": 1,
+        "required": true,
+        "status": 1,
+        "wayToCalc": "sum",
+        "items": [
+            {
+                "id": 69,
+                "name": "Catupiry",
+                "optionId": 19,
+                "order": 0,
+                "price": 4.9,
+                "status": 1
+            },
+            {
+                "id": 70,
+                "name": "Cheddar",
+                "optionId": 19,
+                "order": 0,
+                "price": 5.9,
+                "status": 1
+            },
+            {
+                "id": 71,
+                "name": "Requeij\u00e3o",
+                "optionId": 19,
+                "order": 0,
+                "price": 6.9,
+                "status": 1
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Turbine seu pedido",
+        "min": 0,
+        "max": 5,
+        "type": 2,
+        "required": false,
+        "status": 1,
+        "wayToCalc": "sum",
+        "items": [
+            {
+                "id": 72,
+                "name": "Tomate",
+                "optionId": 20,
+                "order": 0,
+                "price": 2,
+                "status": 1
+            },
+            {
+                "id": 73,
+                "name": "Piment\u00e3o",
+                "optionId": 20,
+                "order": 0,
+                "price": 2,
+                "status": 1
+            },
+            {
+                "id": 74,
+                "name": "Azeitona",
+                "optionId": 20,
+                "order": 0,
+                "price": 3,
+                "status": 1
+            },
+            {
+                "id": 75,
+                "name": "Calabresa",
+                "optionId": 20,
+                "order": 0,
+                "price": 4.5,
+                "status": 1
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Teste",
+        "min": 0,
+        "max": 3,
+        "type": 1,
+        "required": true,
+        "status": 1,
+        "wayToCalc": "max",
+        "items": [
+            {
+                "id": 69,
+                "name": "Catupiry",
+                "optionId": 21,
+                "order": 0,
+                "price": 4.9,
+                "status": 1
+            },
+            {
+                "id": 70,
+                "name": "Cheddar",
+                "optionId": 21,
+                "order": 0,
+                "price": 5.9,
+                "status": 1
+            },
+            {
+                "id": 71,
+                "name": "Requeij\u00e3o",
+                "optionId": 21,
+                "order": 0,
+                "price": 6.9,
+                "status": 1
+            },
+            {
+                "id": 74,
+                "name": "Azeitona",
+                "optionId": 21,
+                "order": 0,
+                "price": 3,
+                "status": 1
+            },
+            {
+                "id": 75,
+                "name": "Calabresa",
+                "optionId": 21,
+                "order": 0,
+                "price": 4.5,
+                "status": 1
+            }
+        ]
+    }
+]

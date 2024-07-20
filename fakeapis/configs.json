@@ -1,0 +1,83 @@
+{
+    "name": "Pizzaria Top 10",
+    "avatar": "https://pizzaz.com.br/wp-content/uploads/2023/10/cropped-logo-pizza-z.png",
+    "headerBackground": "http:\/\/localhost\/midias\/fundo\/capa.jpg",
+    "phone": "(62) 9917-88276",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+    "address": "Avenida Silvestre Gouveia",
+    "status": {
+        "isOpen": false,
+        "nextTime": "abre Sexta \u00e0s 11:00",
+        "currentTime": "Fa\u00e7a seu agendamento",
+        "workingDays": [
+            {
+                "weekDay": "Domingo",
+                "schedules": [
+                    {
+                        "start_at": "00:00:00",
+                        "ends_at": "23:59:00"
+                    }
+                ]
+            },
+            {
+                "weekDay": "Segunda",
+                "schedules": [
+                    {
+                        "start_at": "13:00:00",
+                        "ends_at": "20:15:00"
+                    }
+                ]
+            },
+            {
+                "weekDay": "Ter\u00e7a",
+                "schedules": [
+                    {
+                        "start_at": "10:00:00",
+                        "ends_at": "15:00:00"
+                    }
+                ]
+            },
+            {
+                "weekDay": "Quarta",
+                "schedules": [
+                    {
+                        "start_at": "11:00:00",
+                        "ends_at": "14:00:00"
+                    },
+                    {
+                        "start_at": "18:00:00",
+                        "ends_at": "23:00:00"
+                    }
+                ]
+            },
+            {
+                "weekDay": "Quinta",
+                "schedules": [
+                    {
+                        "start_at": "11:00:00",
+                        "ends_at": "15:00:00"
+                    }
+                ]
+            },
+            {
+                "weekDay": "Sexta",
+                "schedules": [
+                    {
+                        "start_at": "11:00:00",
+                        "ends_at": "20:00:00"
+                    }
+                ]
+            }
+        ]
+    },
+    "acceptDelivery": true,
+    "acceptScheduling": true,
+    "acceptPickup": true,
+    "acceptRegistration": true,
+    "minimumOrderValue": 3,
+    "estimatedDeliveryTime": "30-45 minutos",
+    "deliveryFeeType": "Valor por bairro",
+    "primaryColor": "7E27F6",
+    "colorOnPrimary": "FFFFFF",
+    "scoringProgram": true
+}

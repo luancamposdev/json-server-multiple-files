@@ -1,0 +1,107 @@
+[
+    {
+        "id": 32,
+        "name": "Pizza com borda",
+        "hasManyFlavors": true,
+        "numberOfFlavors": 2,
+        "items": [
+            {
+                "id": 701,
+                "name": "Frango com Catupiry",
+                "categoryId": 32,
+                "description": "",
+                "image": "https://www.hojetemfrango.com.br/wp-content/uploads/2019/01/shutterstock_333724454.jpg",
+                "description": "Com uma massa artesanal fina e crocante, essa pizza \u00e9 coberta com generosas fatias de calabresa, levemente picantes, que se fundem perfeitamente com o sabor aut\u00eantico de nosso molho de tomate caseiro.",
+                "observations": "",
+                "price": 59.9,
+                "priceCurrency": "R$ 59,90",
+                "code": "1155",
+                "enabled": true,
+                "order": 0,
+                "available": true
+            },
+            {
+                "id": 702,
+                "name": "Calabresa",
+                "categoryId": 32,
+                "description": "Com uma massa artesanal fina e crocante, essa pizza \u00e9 coberta com generosas fatias de calabresa, levemente picantes, que se fundem perfeitamente com o sabor aut\u00eantico de nosso molho de tomate caseiro.",
+                "image": "https://brazveloce.com.br/cdn/shop/products/casteloes_480x.png?v=1662146655",
+                "observations": "",
+                "price": 59.9,
+                "priceCurrency": "R$ 59,90",
+                "code": "C0706",
+                "enabled": true,
+                "order": 0,
+                "available": true
+            },
+            {
+                "id": 703,
+                "name": "4 queijos",
+                "categoryId": 32,
+                "description": "Pizza sabor Quatro queijos, produzida pela Bráz Pizzaria e ultracongelada para você finalizar em casa em minutos. Massa de fermentação natural, molho, muçarela, gorgonzola, parmesão, catupiry e orégano.",
+                "image": "https://brazveloce.com.br/cdn/shop/products/4queijos_480x.png?v=1662146726",
+                "observations": "",
+                "price": 59.9,
+                "priceCurrency": "R$ 59,90",
+                "code": "C0706",
+                "enabled": true,
+                "order": 0,
+                "available": true
+            }
+        ],
+        
+        "enabled": true
+    },
+    {
+        "id": 34,
+        "name": "Pizza tradicionais",
+        "hasManyFlavors": true,
+        "numberOfFlavors": 2,
+        "items": [
+            {
+                "id": 705,
+                "name": "Carne de Sol",
+                "categoryId": 34,
+                "image": "https://casadapizza.meucardapio.ai/images/empresa/8e3962f0-e34b-11eb-9c47-bd510309d807.jpeg",
+                "description": "Molho, mussarela, tomate, carne de sol, catupiry, pimentão, cebola e azeitona",
+                "observations": "",
+                "price": 59.9,
+                "priceCurrency": "R$ 59,90",
+                "code": "1155",
+                "enabled": true,
+                "order": 0,
+                "available": true
+            },
+            {
+                "id": 706,
+                "name": "PORTUGUESA",
+                "categoryId": 34,
+                "description": "Molho, mussarela, presunto, ovo, pimentão, cebola e azeitona",
+                "image": "https://casadapizza.meucardapio.ai/images/empresa/229ca120-227d-11ed-b43b-b9b0dd6d243a.jpeg",
+                "observations": "",
+                "price": 59.9,
+                "priceCurrency": "R$ 59,90",
+                "code": "C0706",
+                "enabled": true,
+                "order": 0,
+                "available": true
+            },
+            {
+                "id": 7077,
+                "name": "4 queijos",
+                "categoryId": 34,
+                "description": "Pizza sabor Quatro queijos, produzida pela Bráz Pizzaria e ultracongelada para você finalizar em casa em minutos. Massa de fermentação natural, molho, muçarela, gorgonzola, parmesão, catupiry e orégano.",
+                "image": "https://brazveloce.com.br/cdn/shop/products/4queijos_480x.png?v=1662146726",
+                "observations": "",
+                "price": 59.9,
+                "priceCurrency": "R$ 59,90",
+                "code": "C0706",
+                "enabled": true,
+                "order": 0,
+                "available": true
+            }
+        ],
+        
+        "enabled": true
+    }
+]
